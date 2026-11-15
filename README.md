@@ -73,7 +73,8 @@ Combinando faixa etária de 18 a 40 anos e os estilos mangá/anime ou semi-reali
 
 Essa estimativa considera sobreposição entre estilos e faixas etárias. Portanto, não é uma soma simples dos totais das tabelas anteriores.
 
-(image.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/027ba95a-192e-41eb-b601-97d73b9c4953" />
+
 
 ### Potencial de mercado
 
