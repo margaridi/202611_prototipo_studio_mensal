@@ -1436,5 +1436,5 @@ Crie uma página “Como testar este protótipo” com um roteiro:
 Entregue o protótipo final pronto para compartilhar com beta testers e coletar feedback sobre a proposta de valor, clareza da jornada, interesse pelos materiais, participação no desafio e disposição de pagamento.
 ```
 
-### Link da Aplicação Publicada
+### Link da aplicação
 https://studio-mensal-spark.lovable.app/
