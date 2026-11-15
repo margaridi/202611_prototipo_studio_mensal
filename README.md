@@ -15,6 +15,113 @@ A proposta central é transformar a compra de materiais artísticos em uma exper
 
 O projeto também prevê parcerias com fabricantes de materiais artísticos, que podem fornecer produtos, bonificações ou verbas de patrocínio em troca de exposição em conteúdo autêntico criado pelos assinantes.
 
+## Análise de mercado
+
+A análise de mercado abaixo utiliza um **cenário conservador**, adequado para avaliação inicial do potencial do Studio Mensal. Ela não representa uma medição censitária: os números são estimativas construídas a partir de referências de mercado, dados ocupacionais e premissas explícitas sobre o público de desenhistas profissionais e semiprofissionais no Brasil.
+
+### Universo estimado
+
+Para o cenário conservador, considera-se um universo de **450 mil pessoas** no Brasil entre desenhistas profissionais e semiprofissionais.
+
+| Perfil | Definição | Estimativa conservadora |
+|---|---|---:|
+| Profissional | Obtém parte relevante da renda com desenho, ilustração, quadrinhos, design, animação, tatuagem, arte conceitual ou ensino | 120.000 |
+| Semiprofissional | Desenha com regularidade, vende ocasionalmente, recebe encomendas, participa de mercados ou estuda de forma estruturada | 330.000 |
+| **Total** | Profissionais e semiprofissionais ativos | **450.000** |
+
+O público-alvo prioritário do Studio Mensal é o recorte de **18 a 40 anos**, nos estilos **mangá/anime** e **semi-realismo**. Esse recorte concentra a maior parte da demanda por prática orientada, materiais curados, comunidade, portfólio e reconhecimento.
+
+### Distribuição por idade
+
+| Faixa etária | Profissionais | Semiprofissionais | Total | Participação |
+|---|---:|---:|---:|---:|
+| Menos de 18 anos | 5.000 | 50.000 | 55.000 | 12,2% |
+| 18 a 25 anos | 26.000 | 120.000 | 146.000 | 32,4% |
+| 26 a 40 anos | 52.000 | 105.000 | 157.000 | 34,9% |
+| Mais de 40 anos | 37.000 | 55.000 | 92.000 | 20,4% |
+| **Total** | **120.000** | **330.000** | **450.000** | **100%** |
+
+A faixa de **18 a 40 anos** reúne aproximadamente **303 mil pessoas**, ou **67,3%** do universo conservador. Esse é o público prioritário do produto.
+
+### Distribuição por estilo
+
+| Estilo predominante | Profissionais | Semiprofissionais | Total | Participação |
+|---|---:|---:|---:|---:|
+| Mangá / anime | 26.000 | 106.000 | 132.000 | 29,3% |
+| Semi-realismo | 21.000 | 73.000 | 94.000 | 20,9% |
+| Realismo / hiper-realismo | 19.000 | 49.000 | 68.000 | 15,1% |
+| Gravura / ilustração editorial e autoral | 24.000 | 47.000 | 71.000 | 15,8% |
+| Outros estilos | 30.000 | 55.000 | 85.000 | 18,9% |
+| **Total** | **120.000** | **330.000** | **450.000** | **100%** |
+
+O público prioritário de **mangá/anime e semi-realismo** soma aproximadamente **226 mil pessoas**, ou **50,2%** do universo conservador. Esse recorte justifica o foco inicial da plataforma.
+
+### Público-alvo prioritário
+
+Combinando faixa etária de 18 a 40 anos e os estilos mangá/anime ou semi-realismo, o mercado endereçável inicial estimado é de aproximadamente **152 mil pessoas**.
+
+| Recorte | Estimativa conservadora |
+|---|---:|
+| Universo total de profissionais e semiprofissionais | 450.000 |
+| Faixa etária de 18 a 40 anos | 303.000 |
+| Estilos mangá/anime e semi-realismo | 226.000 |
+| **Público-alvo prioritário: 18 a 40 anos + mangá/anime ou semi-realismo** | **152.000** |
+
+Essa estimativa considera sobreposição entre estilos e faixas etárias. Portanto, não é uma soma simples dos totais das tabelas anteriores.
+
+### Potencial de mercado
+
+Como referência de mercado, estimativas públicas situam os materiais de arte e artesanato no Brasil em torno de **US$ 1,48 bilhão em 2024**, enquanto suprimentos de desenho e pintura são estimados em aproximadamente **US$ 526 milhões em 2025**. O mercado brasileiro de papelaria também é relevante, com projeção de receita próxima de **US$ 2,89 bilhões em 2025**, embora inclua forte demanda escolar, corporativa e de escritório.
+
+Para o cenário conservador, assume-se que o segmento de desenhistas profissionais e semiprofissionais represente **25% do gasto com materiais de desenho**. Isso gera um mercado endereçável anual estimado de **R$ 700 milhões**.
+
+| Indicador | Cenário conservador |
+|---|---:|
+| Universo de profissionais e semiprofissionais | 450.000 pessoas |
+| Público-alvo prioritário | 152.000 pessoas |
+| Mercado endereçável anual para materiais de desenho | R$ 700 milhões |
+| Participação estimada do segmento no gasto com materiais de desenho | 25% |
+| Meta inicial de penetração em 12 meses | 0,5% do público-alvo prioritário |
+| Assinantes iniciais estimados | 760 pessoas |
+| Ticket médio mensal | R$ 129 |
+| Receita recorrente mensal inicial estimada | R$ 98.040 |
+| Receita recorrente anual inicial estimada | R$ 1,18 milhão |
+
+A meta inicial de **0,5% de penetração** equivale a aproximadamente **760 assinantes**. Esse é um objetivo realista para validação do conceito, pois não depende de capturar uma fatia relevante do mercado total.
+
+### Cenários de receita
+
+| Cenário | Assinantes ativos | Ticket médio mensal | MRR | Receita anual recorrente |
+|---|---:|---:|---:|---:|
+| Conservador | 760 | R$ 129 | R$ 98.040 | R$ 1,18 milhão |
+| Base | 1.500 | R$ 129 | R$ 193.500 | R$ 2,32 milhões |
+| Otimista | 3.000 | R$ 139 | R$ 417.000 | R$ 5,00 milhões |
+
+Os cenários consideram apenas a receita de assinatura. Receitas adicionais podem vir de estampas, patrocínios, bonificações de fabricantes, comissões de indicação, workshops e mentorias.
+
+### Premissas do cenário conservador
+
+- O universo de 450 mil pessoas considera apenas desenhistas profissionais e semiprofissionais.
+- O público-alvo prioritário considera somente pessoas de 18 a 40 anos com interesse predominante em mangá/anime ou semi-realismo.
+- A penetração inicial de 0,5% é conservadora e não pressupõe liderança de mercado.
+- O ticket médio de R$ 129 considera uma combinação entre os planos Explorer, Artist e Pro Studio.
+- O frete pode ser cobrado separadamente ou subsidiado parcialmente por parceiros.
+- A receita de estampas, patrocínios e bonificações não é incluída na estimativa principal de assinaturas.
+- A estimativa não considera sazonalidade, cancelamentos, inadimplência, custos de aquisição ou margem líquida.
+
+### Leitura estratégica
+
+O cenário conservador indica que o Studio Mensal não precisa conquistar uma parcela grande do mercado para validar o modelo. Com apenas **760 assinantes**, a plataforma poderia gerar aproximadamente **R$ 98 mil de receita recorrente mensal**, antes de custos, impostos e despesas operacionais.
+
+O principal indicador a validar no beta não é o tamanho total do mercado, mas sim:
+
+- A disposição de pelo menos 100 pessoas em pagar R$ 99 ou mais por mês.
+- A taxa de participação no desafio mensal.
+- A taxa de publicação de obras com vídeo de processo.
+- A retenção após o primeiro, terceiro e sexto mês.
+- O interesse de fabricantes em fornecer produtos ou patrocinar desafios.
+- A conversão de visitantes da galeria em compradores de estampas.
+
 ## Objetivo do protótipo
 
 Este repositório/protótipo tem como objetivo validar o conceito do Studio Mensal por meio de um produto navegável para **beta testes**.
