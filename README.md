@@ -4,7 +4,11 @@
 
 O **Studio Mensal** é um clube de assinatura recorrente para desenhistas e ilustradores brasileiros, com foco inicial no público de **18 a 40 anos** e nos estilos **mangá/anime** e **semi-realismo**.
 
-A proposta central é transformar a compra de materiais artísticos em uma experiência mensal de prática, comunidade e reconhecimento:
+A proposta de valor do Studio Mensal é:
+
+> **“A comunidade que ajuda ilustradores a evoluir, ganhar visibilidade e ser reconhecidos pelo mercado.”**
+
+A proposta central é transformar a compra de materiais artísticos em uma experiência mensal de prática, comunidade, visibilidade e reconhecimento:
 
 1. O assinante recebe um kit mensal de materiais curados.
 2. Participa de um desafio de desenho.
@@ -69,6 +73,8 @@ Combinando faixa etária de 18 a 40 anos e os estilos mangá/anime ou semi-reali
 
 Essa estimativa considera sobreposição entre estilos e faixas etárias. Portanto, não é uma soma simples dos totais das tabelas anteriores.
 
+(image.png)
+
 ### Potencial de mercado
 
 Como referência de mercado, estimativas públicas situam os materiais de arte e artesanato no Brasil em torno de **US$ 1,48 bilhão em 2024**, enquanto suprimentos de desenho e pintura são estimados em aproximadamente **US$ 526 milhões em 2025**. O mercado brasileiro de papelaria também é relevante, com projeção de receita próxima de **US$ 2,89 bilhões em 2025**, embora inclua forte demanda escolar, corporativa e de escritório.
@@ -121,6 +127,140 @@ O principal indicador a validar no beta não é o tamanho total do mercado, mas 
 - A retenção após o primeiro, terceiro e sexto mês.
 - O interesse de fabricantes em fornecer produtos ou patrocinar desafios.
 - A conversão de visitantes da galeria em compradores de estampas.
+
+## Análise SWOT
+
+A análise SWOT considera o estágio inicial do projeto, o acesso privilegiado do criador a fabricantes e comunidades, e os riscos de execução de uma assinatura recorrente.
+
+### Forças
+
+- **Autoridade do criador:** o filho do fundador é desenhista e possui patrocínio de um grande fabricante nacional, representante de uma das maiores marcas de papéis especiais, de uma marca de lápis de cores escolares e hobistas, de uma marca muito conhecida de lápis de cores profissionais e de marcadores e outros materiais relacionados.
+- **Credibilidade artística:** a participação ativa do criador no universo do desenho facilita a criação de conteúdo especializado, curadoria de materiais e validação dos desafios.
+- **Comunidade existente:** o criador possui 85.000 seguidores no Instagram e participa de diversos grupos de desenhistas profissionais e semiprofissionais no WhatsApp.
+- **Acesso direto a fabricantes:** o relacionamento com um grande fabricante nacional pode viabilizar bonificações, amostras, lançamentos, patrocínios e materiais para os kits.
+- **Conteúdo especializado:** é possível produzir tutoriais, desafios, análises de materiais, demonstrações de técnica e conteúdos de evolução artística com maior autenticidade.
+- **Reconhecimento entre pares:** a presença do criador em comunidades de desenho reduz a barreira inicial de confiança e pode acelerar a adesão dos primeiros assinantes.
+- **Diferencial de produto:** a combinação de kit físico, desafio mensal, galeria, votação, vídeo de processo e reconhecimento cria uma proposta mais completa do que uma simples box de materiais.
+- **Potencial de prova social:** as publicações dos participantes nas redes sociais e o uso real dos produtos pelos artistas geram conteúdo autêntico para marcas parceiras.
+- **Estrutura de receita múltipla:** além da assinatura, o projeto pode gerar receita com estampas, patrocínios, indicações, workshops e conteúdo premium.
+
+### Fraquezas
+
+- **Dependência da figura do criador:** a autoridade e o alcance iniciais estão concentrados em uma pessoa; a marca ainda não possui reconhecimento autônomo no mercado.
+- **Capacidade operacional limitada:** curadoria, embalagem, logística, atendimento, moderação, produção de conteúdo e relacionamento com fabricantes exigem processos e equipe.
+- **Custo logístico:** o envio mensal de caixas físicas pode comprometer a margem, especialmente em um país de dimensões continentais e com frete variável.
+- **Complexidade de curadoria:** selecionar materiais adequados a diferentes níveis, estilos e orçamentos exige conhecimento técnico e gestão de estoque.
+- **Risco de baixa participação:** nem todos os assinantes publicarão obras, enviarão vídeos ou participarão da votação; isso pode enfraquecer a percepção de comunidade.
+- **Dependência do YouTube:** a exigência de vídeo de processo pode reduzir a participação de artistas que não se sentem confortáveis para gravar ou editar conteúdo.
+- **Risco de conflito comercial:** patrocínios de fabricantes podem ser percebidos como publicidade se não houver critérios editoriais claros e transparência.
+- **Validação ainda não concluída:** a disposição real de pagamento, retenção e interesse por estampas ainda precisa ser comprovada por beta testes.
+- **Necessidade de governança de direitos autorais:** fan art, referências, uso de marcas e reprodução comercial exigem regras, moderação e contratos bem definidos.
+
+### Oportunidades
+
+- **Mercado de criadores em crescimento:** o interesse por mangá, anime, ilustração e criação de conteúdo artístico continua relevante no Brasil, especialmente entre o público jovem adulto.
+- **Comunidade como diferencial:** há espaço para uma plataforma que vá além da venda de materiais e ofereça prática orientada, portfólio, reconhecimento e conexão entre artistas.
+- **Parcerias estratégicas com fabricantes:** marcas podem usar o projeto como canal de amostragem, lançamento, pesquisa de produto e conteúdo de influência.
+- **Conteúdo como aquisição:** vídeos de processo, desafios, tutoriais e artes dos participantes podem gerar alcance orgânico no Instagram, TikTok, YouTube e Pinterest.
+- **Receita recorrente:** o modelo de assinatura permite prever receita e construir relacionamento contínuo com o assinante.
+- **Marketplace de estampas:** a venda de estampas pode gerar receita adicional para a plataforma e para os artistas, sem exigir estoque de originais.
+- **Programa de embaixadores:** artistas ativos, vencedores e criadores de conteúdo podem se tornar embaixadores da marca e ampliar o alcance orgânico.
+- **Eventos e mentorias:** workshops, lives, desafios especiais, mentorias e encontros podem aumentar o valor percebido e a retenção.
+- **Expansão para novos estilos:** após validar mangá/anime e semi-realismo, a plataforma pode expandir para realismo, gravura, concept art, lettering, tatuagem e outras verticais.
+- **Dados de mercado para marcas:** a plataforma pode oferecer insights sobre preferências de materiais, participação em desafios, uso de produtos e percepção de lançamentos.
+
+### Ameaças
+
+- **Concorrência de boxes e clubes de assinatura:** já existem opções de assinatura criativa e papelaria no Brasil, o que exige diferenciação clara.
+- **Sensibilidade a preço:** em períodos de pressão econômica, assinaturas mensais podem ser canceladas com facilidade.
+- **Churn elevado:** se o kit, o desafio ou a comunidade não entregarem valor percebido contínuo, o cancelamento pode ocorrer após o primeiro ou segundo mês.
+- **Dependência de plataformas externas:** mudanças nas regras, algoritmos ou políticas do Instagram, TikTok, YouTube e WhatsApp podem reduzir o alcance e dificultar a aquisição.
+- **Risco de plágio e uso indevido de obras:** a galeria pode atrair cópias, fan art não autorizada, uso de referências sem crédito e disputas de direitos autorais.
+- **Risco reputacional:** moderação inadequada, favoritismo em votações, problemas de entrega ou falta de transparência podem danificar a confiança da comunidade.
+- **Dependência de um fabricante:** concentrar a relação com um único parceiro pode limitar a diversidade de materiais e criar risco comercial.
+- **Conflito de interesses:** se o fabricante patrocinador influenciar temas, vencedores ou curadoria, a comunidade pode perceber falta de neutralidade.
+- **Barreiras regulatórias e contratuais:** contratos de assinatura, cobrança recorrente, proteção de dados, direitos autorais e uso de imagem exigem atenção jurídica.
+- **Execução operacional:** atrasos, produtos danificados, falta de estoque ou experiências ruins de entrega podem comprometer a retenção.
+
+### Implicações estratégicas
+
+Para transformar as forças em vantagem competitiva, o projeto deve:
+
+1. Usar a autoridade do criador para lançar o produto, mas construir uma marca própria e uma comunidade que não dependa exclusivamente dele.
+2. Transformar os grupos de WhatsApp e os 85.000 seguidores do Instagram em uma base inicial de beta testers, embaixadores e primeiros assinantes.
+3. Formalizar a parceria com o fabricante em um piloto de três meses, com metas claras de publicações, alcance, cliques e feedback de produto.
+4. Manter independência editorial nos desafios, na curadoria e na escolha dos vencedores.
+5. Criar um programa de recompensas que valorize participação, evolução e contribuição à comunidade, e não apenas popularidade.
+6. Oferecer alternativas ao vídeo longo no YouTube, como timelapse curto, carrossel de processo ou gravação simplificada, sem abrir mão da comprovação de autoria.
+7. Começar com um público-alvo restrito — 18 a 40 anos, mangá/anime e semi-realismo — antes de expandir estilos e faixas etárias.
+8. Validar a disposição de pagamento antes de escalar aquisição paga.
+9. Formalizar contratos de licenciamento, uso de imagem, direitos autorais e remuneração desde o primeiro piloto.
+10. Priorizar uma experiência de cancelamento simples e transparente, para proteger a confiança e reduzir riscos regulatórios.
+
+### Cenários macroeconômicos e microeconômicos
+
+A análise considera um horizonte de **12 meses**, com foco no impacto sobre poder de compra, custo de importação, logística, disposição de pagamento e comportamento do público criativo.
+
+#### Cenário macroeconômico
+
+O cenário-base para os próximos 12 meses é de **crescimento modesto, inflação ainda elevada e juros restritivos**. Segundo o Boletim Focus do Banco Central, o mercado projeta crescimento do PIB de aproximadamente **1,75% em 2026** e **1,15% em 2027**, com IPCA de **5,22% em 2026** e **4,90% em 2027**. A expectativa para a Selic é de **13,75% ao fim de 2026** e **12,50% ao fim de 2027**.
+
+| Indicador | Projeção para 2026 | Projeção para 2027 | Impacto para o Studio Mensal |
+|---|---:|---:|---|
+| Crescimento do PIB | 1,75% | 1,15% | Crescimento mais lento pode reduzir consumo discricionário |
+| IPCA | 5,22% | 4,90% | Pressão sobre custos de materiais, frete e embalagem |
+| Selic ao fim do ano | 13,75% | 12,50% | Juros altos reduzem crédito e consumo não essencial |
+| Câmbio estimado | R$ 5,35 | R$ 5,40 | Produtos importados podem ficar mais caros |
+
+#### Cenário microeconômico
+
+No nível microeconômico, o público-alvo é formado por ilustradores, desenhistas e criadores de conteúdo que tratam materiais artísticos como investimento em prática, portfólio, visibilidade e possível monetização.
+
+| Fator microeconômico | Impacto esperado | Implicação para o produto |
+|---|---|---|
+| Poder de compra do consumidor | Pressão sobre gastos não essenciais | Oferecer planos acessíveis, parcelamento e opção de pausa |
+| Custo de materiais importados | Alta do câmbio pode elevar preços | Priorizar fornecedores nacionais e negociar bonificações |
+| Custo de frete e logística | Frete continua sendo barreira relevante | Otimizar embalagem, criar zonas de frete e oferecer envio bimestral |
+| Renda variável do artista | Renda de ilustradores pode oscilar | Permitir pausa mensal, planos trimestrais e benefícios acumuláveis |
+| Disposição para investir em carreira | Artistas investem em materiais como ferramenta de trabalho | Comunicar retorno prático: técnica, portfólio, visibilidade e oportunidades |
+| Sensibilidade ao preço | O consumidor compara preço, conteúdo e benefícios | Evidenciar valor do kit, desafio, comunidade e reconhecimento |
+| Concorrência por atenção | Redes sociais disputam tempo e orçamento do criador | Criar hábito mensal, recompensas e conteúdo de alto valor |
+
+#### Cenários para os próximos 12 meses
+
+| Cenário | Premissas | Impacto no Studio Mensal | Estratégia recomendada |
+|---|---|---|---|
+| **Conservador** | PIB fraco, inflação persistente, Selic elevada e consumo cauteloso | Menor conversão, maior sensibilidade a preço e possível aumento do churn | Preço inicial mais acessível, planos trimestrais, kits enxutos, parcerias de bonificação e foco em retenção |
+| **Base** | Inflação desacelerando gradualmente, juros ainda altos e consumo seletivo | Crescimento moderado, com demanda por produtos de valor percebido claro | Curadoria forte, comunidade ativa, conteúdo especializado e parcerias comerciais |
+| **Otimista** | Melhora gradual do consumo, maior confiança do consumidor e estabilidade cambial | Maior disposição para assinaturas e materiais premium | Expandir planos premium, lançar edições especiais e acelerar parcerias com marcas |
+
+#### Tendências para os próximos 12 meses
+
+- **Consumo mais seletivo:** o consumidor tende a priorizar compras com benefício claro, durabilidade ou retorno pessoal e profissional.
+- **Valorização de comunidades:** criadores buscam espaços para aprender, receber feedback, expor trabalho e encontrar oportunidades.
+- **Crescimento do conteúdo de processo:** vídeos de processo, timelapses, bastidores e demonstrações de técnica continuam sendo formatos de alto engajamento.
+- **Demanda por materiais especializados:** artistas intermediários e avançados tendem a buscar papéis, lápis profissionais, marcadores e acessórios de melhor desempenho.
+- **Preferência por curadoria:** em vez de comprar itens avulsos, parte do público valoriza kits que reduzem a decisão de compra e oferecem uma experiência completa.
+- **Importância da prova social:** reconhecimento entre pares, prêmios, destaques e validação de autoria aumentam o valor percebido da galeria.
+- **Parcerias com criadores:** marcas devem continuar buscando criadores com audiência qualificada para lançamentos, amostragem e conteúdo autêntico.
+- **Pressão por transparência:** consumidores esperam clareza sobre preço, renovação, cancelamento, uso de dados e direitos autorais.
+- **Busca por renda complementar:** mais ilustradores devem buscar formas de monetizar arte, como encomendas, estampas, conteúdos, mentorias e produtos digitais.
+- **Digital e físico combinados:** a experiência mais atrativa tende a unir material físico, comunidade digital, conteúdo educativo e oportunidades de exposição.
+
+#### Implicações para o Studio Mensal
+
+Para os próximos 12 meses, o Studio Mensal deve:
+
+1. Posicionar a assinatura como investimento em evolução artística, visibilidade e reconhecimento — não como compra impulsiva de papelaria.
+2. Usar a comunidade existente do criador para reduzir o custo inicial de aquisição e acelerar a validação do produto.
+3. Negociar bonificações e patrocínios com fabricantes para reduzir o custo do kit sem comprometer a qualidade percebida.
+4. Oferecer um plano de entrada acessível, com possibilidade de pausa e cancelamento digital simples.
+5. Priorizar fornecedores nacionais e negociar preços, reduzindo a exposição ao câmbio.
+6. Criar kits enxutos, bem curados e alinhados ao desafio mensal, evitando excesso de itens e desperdício de estoque.
+7. Usar vídeos curtos de processo como alternativa complementar ao YouTube, ampliando a participação sem perder a evidência de autoria.
+8. Construir uma galeria que gere reconhecimento, portfólio e oportunidades comerciais para o artista.
+9. Medir semanalmente conversão, churn, participação no desafio, publicações, vídeos enviados, votos e interesse por estampas.
+10. Validar a disposição de pagamento antes de investir pesadamente em anúncios pagos ou expansão de catálogo.
 
 ## Objetivo do protótipo
 
@@ -194,7 +334,7 @@ A proposta para fabricantes é oferecer exposição qualificada por meio de:
 
 ### Para o artista
 
-> “Todo mês, você recebe materiais curados, participa de um desafio criativo e tem uma comunidade para evoluir, expor seu trabalho e ser reconhecido.”
+> “A comunidade que ajuda ilustradores a evoluir, ganhar visibilidade e ser reconhecidos pelo mercado.”
 
 Benefícios:
 
@@ -726,6 +866,9 @@ Crie um protótipo navegável de uma plataforma brasileira chamada “Studio Men
 
 O produto é um clube de assinatura recorrente para desenhistas e ilustradores de 18 a 40 anos, com foco nos estilos mangá/anime e semi-realismo. A experiência central é: o assinante recebe um kit mensal de materiais artísticos, participa de um desafio de desenho, publica a obra em uma galeria virtual, envia o link do vídeo do processo no YouTube e participa da votação mensal.
 
+PROPOSTA DE VALOR:
+“A comunidade que ajuda ilustradores a evoluir, ganhar visibilidade e ser reconhecidos pelo mercado.”
+
 IMPORTANTE — ESCOPO DO PROTÓTIPO:
 - Este é apenas um protótipo navegável para beta testes e validação de conceito.
 - NÃO crie banco de dados, NÃO use Supabase, NÃO configure autenticação real, NÃO integre APIs externas, NÃO implemente pagamentos reais, NÃO envie e-mails reais e NÃO faça upload real de arquivos.
@@ -783,10 +926,13 @@ Ao final, mostre o preview navegável e aguarde minha confirmação antes de ava
 ```text
 Na estrutura existente do Studio Mensal, desenvolva a área pública e o fluxo inicial de aquisição. Não altere o painel do artista nem a área administrativa ainda.
 
+Atualize a proposta de valor para:
+“A comunidade que ajuda ilustradores a evoluir, ganhar visibilidade e ser reconhecidos pelo mercado.”
+
 Crie ou melhore as seguintes telas:
 
 1. HOME PÚBLICA
-- Hero com headline: “Todo mês, materiais curados, um desafio criativo e uma comunidade para evoluir.”
+- Hero com headline: “A comunidade que ajuda ilustradores a evoluir, ganhar visibilidade e ser reconhecidos pelo mercado.”
 - Subtítulo explicando que o assinante recebe um kit mensal, participa de um desafio, publica a arte na galeria e concorre aos destaques do mês.
 - CTAs: “Quero participar”, “Ver galeria” e “Ver desafio atual”.
 - Seção “Como funciona” com três etapas:
